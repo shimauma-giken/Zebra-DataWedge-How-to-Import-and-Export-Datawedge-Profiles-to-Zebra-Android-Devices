@@ -1,12 +1,3 @@
-<!-- 罫線を表示 -->
-<style type="text/css"> 
-    table { border-collapse: collapse; } 
-    table, th, td { border: 1px solid black; } 
-</style>
-
-<br><br>
-
-
 
 参考 ： 
 DataWedge 設定 - 
